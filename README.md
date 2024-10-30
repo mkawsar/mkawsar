@@ -15,13 +15,15 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+<a href="https://stackoverflow.com/users/8399140/kawsar">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
 
 <br>
 <br>
 
 - 🔭 I’m currently working at [Btrac Solutions LTD](https://www.btracsolutions.com/) as Senior Software Engineer
-
-- 🌱 I’m currently learning k8s, Backend, Multi Platform Development
 
 - 💬 Ask me about [anything](https://github.com/mkawsar/mkawsar/issues)
 
