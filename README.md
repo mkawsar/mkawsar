@@ -19,14 +19,16 @@
 <br>
 <br>
 
-[//]: # (- 🔭 I’m currently working at [Happy5]&#40;https://happy5.co/&#41; as Android Engineer )
+- 🔭 I’m currently working at [Btrac Solutions LTD](https://www.btracsolutions.com/) as Senior Software Engineer
 
-[//]: # (- 🌱 I’m currently learning Android, Backend, Multi Platform Development)
+- 🌱 I’m currently learning k8s, Backend, Multi Platform Development
 
-[//]: # (- 💬 Ask me about [anything]&#40;https://github.com/luthfiarifin/luthfiarifin/issues&#41;)
+- 💬 Ask me about [anything](https://github.com/mkawsar/mkawsar/issues)
 
-[//]: # (- 📫 How to reach me: marifinluthfi@gmail.com)
+- 📫 How to reach me: **kawsar.diu888@gmail.com** or **mkawsarahmed@outlook.com**
 
-[//]: # (![luthfiarifin github stats]&#40;https://github-readme-stats-phi-blond.vercel.app/api?username=luthfiarifin&theme=dark&show_icons=true&#41;)
+[//]: # ([![Kawsar GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=mkawsar&theme=default&show_icons=true&hide_border=true&count_private=true&#41;]&#40;https://github.com/mkawsar/github-readme-stats&#41;)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkawsar&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-[//]: # (![luthfiarifin most used language]&#40;https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=luthfiarifin&theme=dark&layout=compact&#41;)
+[//]: # (![GitHub Stats]&#40;https://github-readme-streak-stats.herokuapp.com/?user=mkawsar&theme=default&hide_border=true&#41;)
+
