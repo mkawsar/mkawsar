@@ -39,4 +39,7 @@ I specialize in **system design, distributed architectures, and algorithmic prob
 
 - 📫 How to reach me: **kawsar.diu888@gmail.com** or **mkawsarahmed@outlook.com**
 
+[//]: # ([![Kawsar GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=mkawsar&theme=default&show_icons=true&hide_border=true&count_private=true&#41;]&#40;https://github.com/mkawsar/github-readme-stats&#41;)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkawsar&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+[//]: # (![GitHub Stats]&#40;https://github-readme-streak-stats.herokuapp.com/?user=mkawsar&theme=default&hide_border=true&#41;)
